@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sekmen.Core", "Sekmen.Core\Sekmen.Core.csproj", "{EE61D2A2-099C-4426-84AB-3DE9F165079F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE61D2A2-099C-4426-84AB-3DE9F165079F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE61D2A2-099C-4426-84AB-3DE9F165079F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE61D2A2-099C-4426-84AB-3DE9F165079F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE61D2A2-099C-4426-84AB-3DE9F165079F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA0CFF82-41FD-48D3-8A65-9D9AB95E6F77}
+	EndGlobalSection
+EndGlobal
