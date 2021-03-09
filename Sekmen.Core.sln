@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sekmen.Core", "Sekmen.Core\Sekmen.Core.csproj", "{EE61D2A2-099C-4426-84AB-3DE9F165079F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sekmen.Test", "Sekmen.Test\Sekmen.Test.csproj", "{6BEDF5C1-1C3E-4A6D-9356-69F19CFC1D21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EE61D2A2-099C-4426-84AB-3DE9F165079F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE61D2A2-099C-4426-84AB-3DE9F165079F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE61D2A2-099C-4426-84AB-3DE9F165079F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BEDF5C1-1C3E-4A6D-9356-69F19CFC1D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BEDF5C1-1C3E-4A6D-9356-69F19CFC1D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BEDF5C1-1C3E-4A6D-9356-69F19CFC1D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BEDF5C1-1C3E-4A6D-9356-69F19CFC1D21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
